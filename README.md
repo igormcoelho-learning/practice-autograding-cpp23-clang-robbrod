@@ -11,7 +11,7 @@ the activity* and hit the link named **update**.
 
 If you want to practice this activity, just follow this link: (TODO: update)
 
-Robert Reynolds Rodriguez Flores
+**Nome:** *Robert Reynolds Rodriguez Flores*
 
 ## Problem Description
 
